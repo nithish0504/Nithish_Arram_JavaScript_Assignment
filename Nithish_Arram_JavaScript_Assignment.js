@@ -186,6 +186,6 @@ let matrix=[[0,1,1,1],[0,0,1,1],[1,1,1,1],[0,0,0,0]];
 getMaxNoOf1(matrix);
 //End of question 5
 
-//Nithish Arram revert to nithish0504@gmail.com
+
 
 //End of Assignment
